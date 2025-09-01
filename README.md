@@ -1,10 +1,8 @@
 # Frista Web
 
-<!-- 
 <p align="center">
- <img src="TODO" width="500" alt="Demo app" />
+ <img src="https://github.com/user-attachments/assets/c82422f6-836d-460e-90fd-fbb3107cbdbe" width="500" alt="Demo app" />
 </p> 
--->
 
 Frista Web merupakan versi aplikasi berbasis web dari Frista Desktop milik BPJS Kesehatan. Aplikasi ini dikembangkan sebagai bagian dari inisiatif untuk meningkatkan aksesibilitas dan efisiensi operasional. Dengan porting web ini, Frista kini dapat diakses melalui berbagai jenis perangkat tanpa perlu instalasi khusus, sehingga memudahkan pengguna dalam berbagai situasi dan lokasi.
 
@@ -16,6 +14,10 @@ Aplikasi dapat disematkan di iframe dengan dukungan pengisian NIK atau Nomor Kar
 <iframe src="https://example.com?member_id=160207XXXXXX000X" />
 ```
 
+## Link Aplikasi
+
+* Stay tuned!
+
 ## Izin Khusus Terbuka
 Saya memberikan izin terbuka (non-exclusive, perpetual) kepada BPJS Kesehatan untuk:
 * Menggunakan, menyalin, memodifikasi, dan/atau mengadopsi aplikasi ini secara penuh maupun sebagian;
@@ -26,4 +28,4 @@ Saya memberikan izin terbuka (non-exclusive, perpetual) kepada BPJS Kesehatan un
 * [Kebijakan Privasi](./PRIVACY-POLICY.md)
 
 
-> Code akan dipublish setelah repo ini mendapatkan setidaknya 100 stars. :)
+> Code akan di-publish segera! Jangan lupa berikan star ke repository ini :)
